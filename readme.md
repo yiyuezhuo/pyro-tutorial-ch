@@ -9,4 +9,3 @@ http://pyro.ai/examples/index.html
 * [SVI Part II: Conditional Independence, Subsampling, and Amortization](svi_part_ii.ipynb)
 * [SVI Part III: ELBO Gradient Estimators](svi_part_iii.ipynb)
 * [Tensor shapes in Pyro](tensor_shapes.ipynb)
-
